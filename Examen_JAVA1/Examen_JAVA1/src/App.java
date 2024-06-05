@@ -76,6 +76,6 @@ public class App {
                    default:
                    break;
             }
-        }
+        }while(choix!=6);
     }
 }
